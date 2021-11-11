@@ -10,6 +10,9 @@
     --Font:, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     --bold:bold;
 }
+body{
+    background-color: aquamarine;
+}
 
 
 .navbar{
