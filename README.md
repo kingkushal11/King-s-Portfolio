@@ -30,7 +30,8 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshot
-<img src="assets\images\King's Portfolio -.png">
+
+<img src="assets\images\_C__Users_kusha_Desktop_homework2_King-s-Portfolio_index.html (1).png">
  
  ## Links
  - https://kingkushal11.github.io/King-s-Portfolio/
