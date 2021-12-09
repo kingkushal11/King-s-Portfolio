@@ -24,6 +24,21 @@ h2{
     font-size: 1.5em;
     padding: 10px 0;
 }
+h3{
+    text-align: center;
+    justify-content: center;
+}
+.project a{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    text-decoration: none;
+    color: #050505;
+    font-size: larger;
+}
+.link:hover{
+   color: orange;
+}
 footer {
     width: 100%;
     height: 40px;
@@ -100,15 +115,15 @@ section > img {
     justify-content: space-between;
 }
 .pro > div {
-    width: 57.4%;
+    width: 55%;
     text-align: right;
 }
-.pro > div:nth-child(1) {
-    width: 42.6%;
+.pro > div:nth-child(2) {
+    width: 40%;
     text-align: left;
 }
 .pro > div > a > img{
-    width: 97%;
+    width: 510px;
     filter: grayscale(100%);
     transition: filter 800ms cubic-bezier(.5,0,.5,1);
 }
