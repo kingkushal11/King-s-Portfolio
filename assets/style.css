@@ -121,13 +121,13 @@ section > img {
     border-right: 2px solid black;
     display: inline-block;
 }
-#contacts > a:nth-child(3) {
+#contacts > a:nth-child(4) {
     border-right: 0;
 }
 .icon > img{
     filter: invert(1) sepia(1) saturate(5) brightness(1) contrast(0) hue-rotate(135deg);
     width: 50px;
-    transition: width 0.5s;
+    transition: Width 0.5s;
 }
 .icon > img:hover{
     filter: invert(1) sepia(0.5) saturate(6) brightness(.55) contrast(8) hue-rotate(340deg);
@@ -135,6 +135,7 @@ section > img {
 #contacts:hover > .icon > img{
     width: 55px;
 }
+
 /* MEDIA QUERIES */
 @media screen and (max-width: 1054px) {
     section {
