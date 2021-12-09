@@ -1,7 +1,4 @@
-# King-s-Portfolio
-
-
-**Homework**: 02 advanced css portfolio
+# Kushal-Portfolio
 
 **Description**: In this homework, I building my portfolio by what I leared so far in bootcamp. It was diffuilt and fun to do. I really enjoyed this project and I will do this in future too. I tried my best and hard to do this. I hope you guys like it.
 
@@ -31,8 +28,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshot
 
-<img src="assets\images\_C__Users_kusha_Desktop_homework2_King-s-Portfolio_index.html (1).png">
+<img src="assets\images\_C__Users_kusha_Desktop_homework_homework2_King-s-Portfolio_index.html.png">
  
  ## Links
  - https://kingkushal11.github.io/King-s-Portfolio/
- - https://github.com/kingkushal11
+ - https://github.com/kingkushal11/King-s-Portfolio

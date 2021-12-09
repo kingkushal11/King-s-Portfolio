@@ -28,6 +28,12 @@ h3{
     text-align: center;
     justify-content: center;
 }
+.project{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .project a{
     text-align: center;
     justify-content: center;
@@ -171,6 +177,9 @@ section > img {
     h2{
         font-size: 4vw;
    }
+   h3{
+    font-size: 3vw;
+   }
     nav {
         font-size: 3vw;
    }
@@ -179,5 +188,8 @@ section > img {
    }
     .par {
         font-size: 1em;
+   }
+   .child{
+       font-size: 1em;
    }
 }
