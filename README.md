@@ -1,34 +1,31 @@
 # Kushal-Portfolio
 
-**Description**: In this homework, I building my portfolio by what I leared so far in bootcamp. It was diffuilt and fun to do. I really enjoyed this project and I will do this in future too. I tried my best and hard to do this. I hope you guys like it.
-
-## User Story
-
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+## Description
+ This site basically defines the portfolio and achievements. Most importantly, this site defines my work and having some sort of brief introduction about me. My portfolio has a navbar with about me, home, my work, contact and downloadable PDF of my resume. I like the color black, so my portfolio looks all black. My portfolio has my name in the beginning with my picture and brief information about me. My portfolio has three works that were done by me. My portfolio has my contact information which includes Email, GitHub, Instagram and LinkedIn.
 
 
-## Acceptance Criteria
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+## Technology
+This site is developed in HTML and CSS
 
-## Screenshot
 
-<img src="assets\images\_C__Users_kusha_Desktop_homework_homework2_King-s-Portfolio_index.html.png">
+## Question 1: What information website actually gives us?
+
+This website tells the basic information, achievements and portfolio
+
+
+
+## Screenshots
+<img src="assets\images\1.png">
+<img src="assets\images\2.png">
+<img src="assets\images\3.png">
+
+## Contact
+
+- Kushalcool06@gmail.com 
+- https://github.com/kingkushal11
+- https://www.linkedin.com/in/kushal-khattri-540627224/
+
+
  
  ## Links
  - https://kingkushal11.github.io/King-s-Portfolio/
