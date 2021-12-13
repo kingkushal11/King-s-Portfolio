@@ -30,3 +30,6 @@ This website tells the basic information, achievements and portfolio
  ## Links
  - https://kingkushal11.github.io/King-s-Portfolio/
  - https://github.com/kingkushal11/King-s-Portfolio
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
